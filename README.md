@@ -1,1 +1,1 @@
-# ConsoleApplication2
+# Калькулятор дробей на C++
